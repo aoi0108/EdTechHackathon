@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.lightBlueAccent,
+        backgroundColor: Colors.lightBlue,
         title: Text(widget.title),
       ),
       body: Center(
